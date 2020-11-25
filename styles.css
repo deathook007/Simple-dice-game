@@ -1,0 +1,51 @@
+body {
+	margin:0;
+	text-align:center;
+	background-color:#142850;
+}
+
+h1 {
+	margin-top:10px;
+    font-size:80px;
+	color:#bac964;
+	font-family: 'Courgette', cursive;
+}
+
+h2 {
+	font-size:140px;
+	margin:0 auto 0 auto;
+	color:#c70039;
+}
+
+h3 {
+	 font-size:40px;
+   margin-top:0;
+   color:#e4e3e3;  
+    font-family: 'Great Vibes', cursive;
+}
+.middle-container {
+	height:350px;
+	width:700px;
+	margin:0 auto 0 auto;
+}
+	
+.dice-img {
+	height:200px;
+	width:200px;
+}
+
+.dice1 {
+	height:250px;
+	width:250px;
+	position:relative;
+	left:50px;
+	
+}
+
+.dice2 {
+	height:250px;
+	width:250px;
+	position:relative;
+	left:400px;
+	bottom:250px;	
+}
